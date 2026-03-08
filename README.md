@@ -1,10 +1,6 @@
 # WanderWise
 An AI-powered travel planning product demo
 WanderWise helps users choose travel destinations based on price and weather, then create personalized itineraries based on trip timing, companions, photo spots, and travel pace.
-## Sitemap
-# WanderWise
-
-An AI-powered travel planning product demo. WanderWise helps users choose travel destinations based on price and weather, then create personalized itineraries based on trip timing, companions, photo spots, and travel pace.
 
 ## Sitemap
 - **Choose Your Destination**
